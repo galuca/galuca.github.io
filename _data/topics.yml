@@ -1,0 +1,34 @@
+- topic: Learning to use LibreOffice 4.3
+  filename: c-intro.html
+  child: false
+  publish: true
+
+- topic: How to download LibreOffice for Mac OS
+  filename: t1-howtodownload.html
+  child: false
+  publish: true
+
+- topic: How to Install LibreOffice
+  filename: t2-howtoInstallLibreOffice.html
+  child: true
+  publish: true
+
+- topic: How to use LibreOffice Writer to write a letter
+  filename: t3-howtouseLibreOfficeWriter.html
+  child: false
+  publish: true
+
+- topic: How to create a simple spreadsheet in LibreOffice Cal
+  filename: t4-howtocreateasimplespreadsheetinLibreOfficeCal.html
+  child: false
+  publish: true
+
+- topic: How to create a simple presentation in LibreOffice Impress
+  filename: t5-howtocreateasimplepresentationinLibreOfficeImpress.html
+  child: false
+  publish: true
+
+- topic: additional assistance
+  filename: r-help.html
+  child: false
+  publish: true
