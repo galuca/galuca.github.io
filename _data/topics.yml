@@ -9,22 +9,22 @@
   publish: true
 
 - topic: How to Install LibreOffice
-  filename: t2-howtoInstallLibreOffice.html
+  filename: t2-howtoinstalllibreoffice.html
   child: true
   publish: true
 
 - topic: How to use LibreOffice Writer to write a letter
-  filename: t3-howtouseLibreOfficeWriter.html
+  filename: t3-howtouselibreofficewriter.html
   child: false
   publish: true
 
 - topic: How to create a simple spreadsheet in LibreOffice Cal
-  filename: t4-howtocreateasimplespreadsheetinLibreOfficeCal.html
+  filename: t4-howtocreateasimplespreadsheetinlibreofficecal.html
   child: false
   publish: true
 
 - topic: How to create a simple presentation in LibreOffice Impress
-  filename: t5-howtocreateasimplepresentationinLibreOfficeImpress.html
+  filename: t5-howtocreateasimplepresentationinlibreofficeimpress.html
   child: false
   publish: true
 
