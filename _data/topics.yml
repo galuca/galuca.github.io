@@ -4,27 +4,27 @@
   publish: true
 
 - topic: How to download LibreOffice for Mac OS
-  filename: t1-howtodownload.html
+  filename: t1.html
   child: false
   publish: true
 
 - topic: How to Install LibreOffice
-  filename: t2-howtoinstalllibreoffice.html
+  filename: t2.html
   child: true
   publish: true
 
 - topic: How to use LibreOffice Writer to write a letter
-  filename: t3-howtouselibreofficewriter.html
+  filename: t3.html
   child: false
   publish: true
 
 - topic: How to create a simple spreadsheet in LibreOffice Cal
-  filename: t4-howtocreateasimplespreadsheetinlibreofficecal.html
+  filename: t4.html
   child: false
   publish: true
 
 - topic: How to create a simple presentation in LibreOffice Impress
-  filename: t5-howtocreateasimplepresentationinlibreofficeimpress.html
+  filename: t5.html
   child: false
   publish: true
 
