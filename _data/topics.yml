@@ -28,7 +28,7 @@
   child: false
   publish: true
 
-- topic: additional assistance
+- topic: Additional ssistance
   filename: r-help.html
   child: false
   publish: true
